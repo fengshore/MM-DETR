@@ -1,34 +1,39 @@
 # MM-DETR
 A new paradigm for initializing DETR using multimodality.
 
-### Semantic Alignment Module
+### Fig1: Semantic Alignment Module
 <p align="center">
   <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/Semantic_Alignment_Module.png" 
        alt="Semantic Alignment Module" width="80%"/>
 </p>
 
-<figure>
-  <figcaption style="text-align:center; font-weight:bold;">
-    fig1:VisDrone dataset (MM-DETR on the left and DINO on the right)
-  </figcaption>
+### Fig2: VisDrone dataset(MM-DETR on the left and DINO on the right)
+<p align="center">
+  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdetr/vis/0000001_02999_d_0000005.jpg" width="45%" alt="figure1"/>
+  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdino/vis/0000001_02999_d_0000005.jpg" width="45%" alt="figure1-1"/>
+</p>
+<p align="center">
+  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdetr/vis/0000021_00000_d_0000001.jpg" width="45%" alt="figure2"/>
+  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdino/vis/0000021_00000_d_0000001.jpg" width="45%" alt="figure2-1"/>
+</p>
+<p align="center">
+  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdetr/vis/0000026_01000_d_0000026.jpg" width="45%" alt="figure3"/>
+  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdino/vis/0000026_01000_d_0000026.jpg" width="45%" alt="figure3-1"/>
+</p>
+<p align="center">
+  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdetr/vis/0000026_02000_d_0000028.jpg" width="45%" alt="figure4"/>
+  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdino/vis/0000026_02000_d_0000028.jpg" width="45%" alt="figure4-1"/>
+</p>
 
-  <p align="center">
-    <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdetr/vis/0000001_02999_d_0000005.jpg" width="45%" alt="MM-DETR example 1"/>
-    <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdino/vis/0000001_02999_d_0000005.jpg" width="45%" alt="DINO example 1"/>
-  </p>
-  <p align="center">
-    <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdetr/vis/0000021_00000_d_0000001.jpg" width="45%" alt="MM-DETR example 2"/>
-    <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdino/vis/0000021_00000_d_0000001.jpg" width="45%" alt="DINO example 2"/>
-  </p>
-  <p align="center">
-    <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdetr/vis/0000026_01000_d_0000026.jpg" width="45%" alt="MM-DETR example 3"/>
-    <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdino/vis/0000026_01000_d_0000026.jpg" width="45%" alt="DINO example 3"/>
-  </p>
-  <p align="center">
-    <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdetr/vis/0000026_02000_d_0000028.jpg" width="45%" alt="MM-DETR example 4"/>
-    <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdino/vis/0000026_02000_d_0000028.jpg" width="45%" alt="DINO example 4"/>
-  </p>
-</figure>
+### Fig3: gradient heatmap
+<p align="center">
+  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/hot_figure/output/compare1.png" width="45%" alt="figure4"/>
+  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/hot_figure/output/compare2.png" width="45%" alt="figure4-1"/>
+</p>
+
+
+
+
 
 
 ### VisDrone dataset comparsion
