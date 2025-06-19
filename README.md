@@ -32,13 +32,10 @@ A new paradigm for initializing DETR using multimodality.
 </p>
 
 
-
-### Table1: VisDrone dataset comparsion
-
-| Method              | #epochs        |   AP    |AP_S          |AP_M          |AP_L          |
-|---------------------|:--------------:|:-------:|:------------:|:------------:|:------------:|
-| DINO-DETR           | 36             |   25.8  | 18.7         | 26.1         |43.4           |
-| MM-DETR             | 36             |   21.6  | 14.8(+3.9)   | 20.3(+5.8)   |39.6(+3.8)     |
+| Method    | #epochs |   AP   | AP<sub>S</sub>   | AP<sub>M</sub>   | AP<sub>L</sub>   |
+|-----------|:-------:|:------:|:----------------:|:----------------:|:----------------:|
+| DINO-DETR |   36    |  25.8  |      18.7        |      26.1        |      43.4        |
+| MM-DETR   |   36    |  21.6  | 14.8 (+3.9)      | 20.3 (+5.8)      | 39.6 (+3.8)      |
 
 
 
