@@ -9,20 +9,20 @@ A new paradigm for initializing DETR using multimodality.
 
 ### VisDrone dataset(MM-DETR on the left and DINO on the right)
 <p align="center">
-  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdetr/vis/0000001_02999_d_0000005.jpg" width="50%" alt="figure1"/>
-  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdino/vis/0000001_02999_d_0000005.jpg" width="50%" alt="figure1-1"/>
+  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdetr/vis/0000001_02999_d_0000005.jpg" width="45%" alt="figure1"/>
+  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdino/vis/0000001_02999_d_0000005.jpg" width="45%" alt="figure1-1"/>
 </p>
 <p align="center">
-  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdetr/vis/0000021_00000_d_0000001.jpg" width="50%" alt="figure2"/>
-  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdino/vis/0000021_00000_d_0000001.jpg" width="50%" alt="figure2-1"/>
+  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdetr/vis/0000021_00000_d_0000001.jpg" width="45%" alt="figure2"/>
+  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdino/vis/0000021_00000_d_0000001.jpg" width="45%" alt="figure2-1"/>
 </p>
 <p align="center">
-  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdetr/vis/0000026_01000_d_0000026.jpg" width="50%" alt="figure3"/>
-  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdino/vis/0000026_01000_d_0000026.jpg" width="50%" alt="figure3-1"/>
+  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdetr/vis/0000026_01000_d_0000026.jpg" width="45%" alt="figure3"/>
+  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdino/vis/0000026_01000_d_0000026.jpg" width="45%" alt="figure3-1"/>
 </p>
 <p align="center">
-  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdetr/vis/0000026_02000_d_0000028.jpg" width="50%" alt="figure4"/>
-  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdino/vis/0000026_02000_d_0000028.jpg" width="50%" alt="figure4-1"/>
+  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdetr/vis/0000026_02000_d_0000028.jpg" width="45%" alt="figure4"/>
+  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/mmdino/vis/0000026_02000_d_0000028.jpg" width="45%" alt="figure4-1"/>
 </p>
 
 
