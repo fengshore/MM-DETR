@@ -27,8 +27,8 @@ A new paradigm for initializing DETR using multimodality.
 
 ### Fig3: gradient heatmap
 <p align="center">
-  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/hot_figure/output/compare1.png" width="45%" alt="figure4"/>
-  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/hot_figure/output/compare2.png" width="45%" alt="figure4-1"/>
+  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/hot_figure/input/compare1-1.png" width="45%" alt="figure4"/>
+  <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/hot_figure/input/compare2-2.png" width="45%" alt="figure4-1"/>
 </p>
 
 ### Table1: comparison on Visdrone datasets 
