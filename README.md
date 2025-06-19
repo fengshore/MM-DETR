@@ -12,4 +12,4 @@ A new paradigm for initializing DETR using multimodality.
 | **DINO-DETR**       | **MM**         |   36    | 52.3 (+1.4)   | 68.7 (+3.3)    |66         |
 
 
-
+![AP Comparison](https://github.com/fengshore/MM-DETR/blob/main/figure/hot_figure/output/output-1.jpg)
