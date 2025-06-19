@@ -1,5 +1,19 @@
 # MM-DETR
 A new paradigm for initializing DETR using multimodality.
+
+### Semantic Alignment Module
+<p align="center">
+  <img src="[https://github.com/fengshore/MM-DETR/blob/main/figure/hot_figure/output/output-1.jpg](https://github.com/fengshore/MM-DETR/blob/main/figure/Semantic_Alignment_Module.png)" 
+       alt="Semantic Alignment Module" width="80%"/>
+</p>
+
+
+
+
+
+
+
+
 | Method              | #epochs        |   AP    | AP_S          | AP_M           |    AP_L   |
 |---------------------|:--------------:|:-------:|:-------------:|:--------------:|:---------:|
 | MM                  | –              |   50    | 46.9          | 57.3           |66         |
@@ -18,3 +32,6 @@ A new paradigm for initializing DETR using multimodality.
   <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/hot_figure/output/output-1.jpg" width="45%" alt="Output 1"/>
   <img src="https://github.com/fengshore/MM-DETR/blob/main/figure/hot_figure/output/output-1.jpg" width="45%" alt="Output 1"/>
 </p>
+
+
+
