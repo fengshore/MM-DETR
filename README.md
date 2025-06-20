@@ -39,7 +39,7 @@ A new paradigm for initializing DETR using multimodality.
 |  MM-DETR  |   36    |  25.8  |      18.5(+3.7)  |      25.6(+5.3)  |      43.4(+3.8)  |
 
 
-### Table2: Influence of K
+### Table2: Influence of K in MM-DETR
 |      K     |     AP     |     FPS     |
 |------------|:----------:|:-----------:|
 |     100    |    51.3    |     24.8    |
